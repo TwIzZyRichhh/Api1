@@ -1,0 +1,8 @@
+# Default ignored files
+/../../Api /.idea/shelf/
+/../../Api /.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../Api /.idea/httpRequests/
+# Datasource local storage ignored files
+/../../Api /.idea/dataSources/
+/../../Api /.idea/dataSources.local.xml
